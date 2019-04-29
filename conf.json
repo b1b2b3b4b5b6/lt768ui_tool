@@ -1,4 +1,6 @@
 {
     "DebugPort":1717,
-    "LogkitServer": "http://lumoschen.cn:3001/debug"
+    "LogkitServer": "http://lumoschen.cn:3001/debug",
+    "NullColor": 0,
+    "Endian":"LittleEndian"
 }
